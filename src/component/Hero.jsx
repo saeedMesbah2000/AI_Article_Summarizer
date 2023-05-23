@@ -9,7 +9,10 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            // window.open();
+            window.open(
+              "https://github.com/saeedMesbah2000/AI_Article_Summarizer",
+              "_blank"
+            );
           }}
           className="black_btn">
           GitHub
